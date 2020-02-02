@@ -2,8 +2,8 @@
 Learning SDCC PIC tools to program PICs with C on Ubuntu 18.04
 
 ## Tools
-SDCC (Small Device C Compiler) here: http://sdcc.sourceforge.net/
-MPLAB IPE (Integrated Programming Environment) https://www.microchip.com/mplab/mplab-integrated-programming-environment
+* SDCC (Small Device C Compiler) here: http://sdcc.sourceforge.net/
+* MPLAB IPE (Integrated Programming Environment) https://www.microchip.com/mplab/mplab-integrated-programming-environment
 
 ## Notes
 I have a PICkit3 and a F628 already in a board so I used those and it worked!
